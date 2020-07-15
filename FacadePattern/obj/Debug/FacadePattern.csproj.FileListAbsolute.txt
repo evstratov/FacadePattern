@@ -1,0 +1,6 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
